@@ -3,8 +3,6 @@ package testutils
 import (
 	"reflect"
 	"testing"
-
-	. "github.com/kynrai/go-testutils"
 )
 
 func TestExamplet(t *testing.T) {
